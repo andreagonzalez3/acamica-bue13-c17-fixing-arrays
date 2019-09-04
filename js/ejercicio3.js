@@ -1,6 +1,6 @@
 console.log('Ejercicio 3: ');
 
-var listaDeReproduccion = [];
+var listaDeReproduccion = [0];
 
 console.log('Mi lista de reproduccion por ahora tiene ' + listaDeReproduccion.length() + ' canciones porque esta vacia.');
 
